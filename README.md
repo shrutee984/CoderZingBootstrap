@@ -1,5 +1,14 @@
 # CoderZingBootstrap
-This is my bootstrap website
+## Technologies Used
+-Bootstrap: Front-end framework for building responsive and mobile-first websites.
+-HTML: Markup language used for structuring the content of web pages.
+-CSS: Styling language used for defining the presentation of web pages.
+
+## Acknowledgements
+-Bootstrap: https://getbootstrap.com/
+-Icons: Font Awesome
+-Images: Unsplash
+
 ### Screenshot
 ![Screenshot (184)](https://github.com/shrutee984/CoderZingBootstrap/assets/133494826/5a9cc1c9-1304-47ff-b807-155a1a12c9ba)
 ![Screenshot (186)](https://github.com/shrutee984/CoderZingBootstrap/assets/133494826/75873add-1bdd-4c07-8f91-ef954145abaf)
